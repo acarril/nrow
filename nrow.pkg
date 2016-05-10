@@ -1,0 +1,13 @@
+d nrow
+d
+d Rename variables as their nth-row values.
+d
+d Version 1.0.1
+d Last update: 27nov2015
+d
+d Author: Alvaro Carril
+d Email: acarril@fen.uchile.cl
+d
+f nrow.ado
+f nrow.sthlp
+f nrow_example.dta
